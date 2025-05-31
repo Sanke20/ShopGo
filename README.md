@@ -29,7 +29,7 @@ Cart management with item quantity control and real-time price updates.
 Order tracking and billing interface for store owners.
 Prices displayed in Indian Rupees (₹).
 
-Tech Stack (Example)
+Tech Stack (For Future Enhancements)
 Frontend: Flutter / React Native
 Backend: Node.js / Express / Firebase
 Database: Firebase Firestore / MongoDB
